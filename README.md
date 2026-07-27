@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kelyzor/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kelyzor/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Kelyzor/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -29,4 +30,9 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kelyzor/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kelyzor/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kelyzor/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
