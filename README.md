@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kelyzor/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [1894-merge-strings-alternately](https://github.com/Kelyzor/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kelyzor/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Kelyzor/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
