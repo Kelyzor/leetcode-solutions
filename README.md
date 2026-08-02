@@ -19,6 +19,7 @@
 | [0013-roman-to-integer](https://github.com/Kelyzor/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Kelyzor/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [1894-merge-strings-alternately](https://github.com/Kelyzor/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Kelyzor/leetcode-solutions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Array
 |  |
 | ------- |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kelyzor/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Kelyzor/leetcode-solutions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 <!---LeetCode Topics End-->
