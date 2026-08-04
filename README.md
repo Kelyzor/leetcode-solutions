@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kelyzor/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Kelyzor/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [4107-find-missing-elements](https://github.com/Kelyzor/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Kelyzor/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kelyzor/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Kelyzor/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [4107-find-missing-elements](https://github.com/Kelyzor/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kelyzor/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kelyzor/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [4107-find-missing-elements](https://github.com/Kelyzor/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
