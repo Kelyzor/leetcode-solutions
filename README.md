@@ -14,6 +14,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Kelyzor/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Kelyzor/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [3371-harshad-number](https://github.com/Kelyzor/leetcode-solutions/tree/master/3371-harshad-number) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kelyzor/leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Kelyzor/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kelyzor/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Kelyzor/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kelyzor/leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4107-find-missing-elements](https://github.com/Kelyzor/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Counting
 |  |
